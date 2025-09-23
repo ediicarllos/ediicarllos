@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o EdiCarlos  
 
-<!--
-**ediicarllos/ediicarllos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Apaixonado por **tecnologia, programação e aprendizado contínuo**  
+🎯 Buscando evoluir como **desenvolvedor** e contribuir para projetos open source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades  
+- **Linguagens:** Python, JavaScript, SQL  
+- **Ferramentas:** Git, VS Code, Node.js  
+- **Áreas de interesse:** Desenvolvimento Web, Dados, Automação  
+
+---
+
+## 📊 Estatísticas do GitHub  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=edi-carlos&show_icons=true&theme=tokyonight)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edi-carlos&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)  
+[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)  
+
+---
+
+✨ *"A tecnologia move o mundo, mas a criatividade dá direção."*  
