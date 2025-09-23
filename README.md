@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o EdiCarlos  
+# Edi Carlos Celestino Silva
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** focadp em atuar como **Desenvolvedor Full Stack** 
 
