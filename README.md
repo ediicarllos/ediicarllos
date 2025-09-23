@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou o EdiCarlos  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por **tecnologia, programação e aprendizado contínuo**  
-🎯 Buscando evoluir como **desenvolvedor** e contribuir para projetos open source  
+🚀 **Desenvolvedor Full Stack**    
 
 ---
 
 ## 🛠️ Habilidades  
-- **Linguagens:** Python, JavaScript, SQL  
+- **Linguagens:** Python, Java, JavaScript, SQL, CSS, HTML 
 - **Ferramentas:** Git, VS Code, Node.js  
 - **Áreas de interesse:** Desenvolvimento Web, Dados, Automação  
 
@@ -20,9 +19,4 @@
 ---
 
 ## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)  
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)  
-
----
-
-✨ *"A tecnologia move o mundo, mas a criatividade dá direção."*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediicarlos)
