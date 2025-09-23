@@ -1,4 +1,4 @@
-# Edi Carlos Celestino Silva
+# 🚀 Edi Carlos Celestino Silva
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** focadp em atuar como **Desenvolvedor Full Stack** 
 
