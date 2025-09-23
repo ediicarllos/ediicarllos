@@ -4,14 +4,6 @@
 
 **Portifólio** [Clique aqui](https://ediicarllos.github.io/portifoliov1)
 
-
----
-
-## 🛠️ Habilidades  
-- **Linguagens:** Python, Java, JavaScript, SQL, CSS, HTML 
-- **Ferramentas:** Git, VS Code, Node.js  
-- **Áreas de interesse:** Desenvolvimento Web, Dados, Automação  
-
 ---
 
 ## 📊 Estatísticas do GitHub  
