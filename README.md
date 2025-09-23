@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o EdiCarlos  
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 **Desenvolvedor Full Stack**    
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** focadp em atuar como **Desenvolvedor Full Stack** 
+### Portifólio: (https://ediicarllos.github.io/portifoliov1)
+
 
 ---
 
