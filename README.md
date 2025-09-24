@@ -17,7 +17,9 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 
 <div align="righ">
   
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&v=1)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&theme=tokyonight&v=1)  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&v=1) 
 
 </div>
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&theme=tokyonight&v=1)  
+
+
