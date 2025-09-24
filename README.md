@@ -16,8 +16,6 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <div align="center">
   <table>
     <tr>
