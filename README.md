@@ -14,17 +14,6 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=1"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&v=1"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ediicarllos&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ediicarllos&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ediicarllos&theme=tokyonight" />
