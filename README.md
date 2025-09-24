@@ -1,6 +1,6 @@
 # Olá! me chamo Edi Carlos
 
-![Badge](https://img.shields.io/badge/Desenvolvedor-Fullstack)
+![Badge](https://img.shields.io/badge/Desenvolvedor-blue)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar um Desenvolvedor Full Stack. Sou muito familiarizado na área de Front-end, onde tenho vários projetos, mas também tenho muito gosto e projetos na área de Back-end, além de ser apaixonado pela área de Dados, onde possuo certificação em [Análise de Dados](https://www.linkedin.com/in/ediicarlos/details/certifications)
 
