@@ -4,7 +4,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar um Desenvolvedor Full Stack. Sou muito familiarizado na área de Front-end, onde tenho vários projetos, mas também tenho muito gosto e projetos na área de Back-end, além de ser apaixonado pela área de Dados, onde possuo certificação em [Análise de Dados](https://www.linkedin.com/in/ediicarlos/details/certifications)
 
-Sempre em constante evolução, busco aprimorar minhas habilidades e explorar esse vasto mundo da Programação. Bem-vindo(a) ao meu perfil!
+Sempre em constante evolução, busco aprimorar minhas habilidades e explorar esse vasto mundo da programação. Bem-vindo(a) ao meu perfil!
 
 ---
 
