@@ -7,6 +7,8 @@ Tenho sólida experiência em *Front-end*, com diversos projetos desenvolvidos, 
 
 Estou sempre em constante evolução, buscando aprimorar minhas habilidades e explorar ao máximo o universo da programação. Bem-vindo(a) ao meu perfil!
 
+Acesse meu [Portifólio](https://ediicarllos.github.io/portifoliov1)
+
 ---
 
 ## Linguagens e Tecnologias
