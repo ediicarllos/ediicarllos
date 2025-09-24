@@ -2,9 +2,11 @@
 
 ![Badge](https://img.shields.io/badge/Desenvolvedor-blue)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar um Desenvolvedor Full Stack. Sou muito familiarizado na área de Front-end, onde tenho vários projetos, mas também tenho muito gosto e projetos na área de Back-end, além de ser apaixonado pela área de Dados, onde possuo certificação em [Análise de Dados](https://www.linkedin.com/in/ediicarlos/details/certifications)
+💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em me tornar Desenvolvedor Full Stack.
+Tenho sólida experiência em Front-end, com diversos projetos desenvolvidos, e também atuação em Back-end, onde venho construindo soluções práticas e escaláveis. Além disso, sou apaixonado por Análise de Dados, área na qual possuo [certificação](https://www.linkedin.com/in/ediicarlos/details/certifications)
 
-Sempre em constante evolução, busco aprimorar minhas habilidades e explorar esse vasto mundo da programação. Bem-vindo(a) ao meu perfil!
+🚀 Estou sempre em constante evolução, buscando aprimorar minhas habilidades e explorar ao máximo o universo da programação.
+✨ Bem-vindo(a) ao meu perfil!
 
 ---
 
