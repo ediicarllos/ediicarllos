@@ -3,7 +3,6 @@
 ![Badge](https://img.shields.io/badge/Desenvolvedor-Fullstack)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar um Desenvolvedor Full Stack. Sou muito familiarizado na área de Front-end, onde tenho vários projetos, mas também tenho muito gosto e projetos na área de Back-end, além de ser apaixonado pela área de Dados, onde possuo certificação em [Análise de Dados](https://www.linkedin.com/in/ediicarlos/details/certifications)
-
 Sempre em constante evolução, busco aprimorar minhas habilidades e explorar esse vasto mundo da programação. Bem-vindo(a) ao meu perfil!
 
 ---
@@ -16,5 +15,5 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 
 <div align="righ">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ediicarllos&theme=tokyonight" width="900" height="900"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ediicarllos&theme=tokyonight" width="1000" height="1000"/>
 </div>
