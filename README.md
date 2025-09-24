@@ -12,7 +12,5 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
-<div align="righ">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ediicarllos&theme=tokyonight" width="1000" height="1000"/>
-</div>
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&v=1)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&theme=tokyonight&v=1)
