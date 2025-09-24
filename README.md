@@ -20,6 +20,8 @@ Sempre em constante evolução, busco aprimorar minhas habilidades e explorar es
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&v=1) 
 
 </div>
+<div align="righ">
+  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&theme=tokyonight&v=1)  
 
-
+</div>
