@@ -32,15 +32,3 @@ Além disso, sou apaixonado por **Análise de Dados**.
 </a>
 
 </div>
-
-## Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ediIcarlos" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right: 10px;" />
-  </a>
-  <a href="https://instagram.com/ediIcarlos_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" />
-  </a>
-</p>
-
