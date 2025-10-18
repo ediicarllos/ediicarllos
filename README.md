@@ -23,12 +23,12 @@ Além disso, sou apaixonado por **Análise de Dados**.
 <div align="lrft">
 
 ## Stats
-<a href="https://github.com/ediicarllos">
-  <img src="https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-</a>
 
 <a href="https://github.com/ediicarllos">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediicarllos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+</a>
+<a href="https://github.com/ediicarllos">
+  <img src="https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </a>
 
 </div>
