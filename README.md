@@ -33,7 +33,7 @@ Além disso, sou apaixonado por **Análise de Dados**.
 
 </div>
 
-## 🌐 Networking
+## Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ediIcarlos" target="_blank">
