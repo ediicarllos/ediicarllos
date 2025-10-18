@@ -1,4 +1,4 @@
-# Olá! me chamo Edi Carlos
+# Hello world! I'm Edi Carlos
 
 ![Badge](https://img.shields.io/badge/Desenvolvedor-blue)
 
