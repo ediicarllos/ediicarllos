@@ -35,8 +35,6 @@ Além disso, sou apaixonado por **Análise de Dados**.
 
 ## 🌐 Networking
 
-## 🌐 Networking
-
 <p align="left">
   <a href="https://linkedin.com/in/ediIcarlos" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right: 10px;" />
