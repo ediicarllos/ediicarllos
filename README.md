@@ -33,8 +33,6 @@ Além disso, sou apaixonado por **Análise de Dados**.
 
 </div>
 
----
-
 ## 🌐 Networking
 
 <p align="left">
