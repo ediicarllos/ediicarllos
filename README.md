@@ -6,8 +6,6 @@
 Tenho boa experiência em Front-end com diversos projetos desenvolvidos, e também atuação em Back-end, onde venho construindo soluções práticas e escaláveis.  
 Além disso, sou apaixonado por **Análise de Dados**.
 
----
-
 ## Linguagens e Tecnologias
 
 <p align="left">
@@ -23,12 +21,9 @@ Além disso, sou apaixonado por **Análise de Dados**.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
 </p>
 
----
-
-
 <div align="lrft">
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 <a href="https://github.com/ediicarllos">
   <img src="https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </a>
