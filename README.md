@@ -25,9 +25,8 @@ Além disso, sou apaixonado por **Análise de Dados**.
 
 ---
 
-## Stats
 
-<div align="center">
+<div align="lrft">
 
 ### 📊 Estatísticas do GitHub
 <a href="https://github.com/EdiCarlos">
