@@ -22,7 +22,7 @@ Além disso, sou apaixonado por **Análise de Dados**.
 
 <div align="lrft">
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <a href="https://github.com/ediicarllos">
   <img src="https://github-readme-stats.vercel.app/api?username=ediicarllos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </a>
